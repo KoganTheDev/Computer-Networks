@@ -5,6 +5,8 @@
 ## 📌 Overview
 This repository contains course materials, lab exercises, and assignments for the **Computer Networks** course at ORT Braude College. The course focuses on understanding the principles of computer communication, network protocols, and their implementation.
 
+---
+
 ## 📖 Course Topics
 - **Introduction to Computer Networks** – Historical background, network models, and the TCP/IP stack.
 - **Physical Layer** – Channel types, modulation techniques, and multiplexing methods.
